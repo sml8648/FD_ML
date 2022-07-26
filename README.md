@@ -9,8 +9,12 @@
 
 ## '신용카드 사기 탐지' 문제의 특징
 * 불균형한 데이터셋
- => Kaggle credit card fraud detection dataset에서는 99%가 정상거래데이터 였으며 당사에서도 같은 현상이 확인됨 Accuracy 보다는 recall,precision,f1_score와 같은 metric이 모델의 성능 척도로 사용됨
+ * Kaggle credit card fraud detection dataset에서는 99%가 정상거래데이터 였으며 당사에서도 같은 현상이 확인됨 Accuracy 보다는 recall,precision,f1_score와 같은 metric이 모델의 성능 척도로 사용됨
  
 * 이진 분류 문제
 
-#
+* 정상데이터와 비정상데이터가 거의 구분되지 않음
+
+## 주요 feature
+
+*
