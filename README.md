@@ -86,6 +86,12 @@ FDS_ML/
 
 ![다운로드 (2)](https://user-images.githubusercontent.com/18714388/181765007-dededed4-4727-4fa3-a1e1-0ceced2175a2.png)
 
+* XGB classifier
+![다운로드 (3)](https://user-images.githubusercontent.com/18714388/181765213-764ca6a4-633f-4566-af62-a798b5e70b82.png)
+
+![다운로드 (4)](https://user-images.githubusercontent.com/18714388/181765228-8dbb6695-20b7-40c3-849b-81281d6e5970.png)
+
+
 
 ## 결론
 
