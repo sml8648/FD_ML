@@ -64,6 +64,21 @@
   
 ## 프로젝트 소스 코드 
 
+game/
+    __init__.py
+    sound/
+        __init__.py
+        echo.py
+        wav.py
+    graphic/
+        __init__.py
+        screen.py
+        render.py
+    play/
+        __init__.py
+        run.py
+        test.py
+
 ## 모델 적용 결과
 
 ## 결론
