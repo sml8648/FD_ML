@@ -80,7 +80,12 @@ FDS_ML/
 ## 모델 적용 결과
 * 당사 일평균 출금요청건수인 3만 거래 건수를 정상데이터에서 랜덤샘플링 하였으며 샘플링한 정상데이터와 1000건의 사기거래건을 합쳐서 데이터 세트를 만듬
 * 훈련데이터 0.8, 테스트 데이터 0.2 비율로 훈련 및 평가를 실시
+
+* LGBM classifier
 ![다운로드 (1)](https://user-images.githubusercontent.com/18714388/181764955-a1ace5d9-5c52-442b-8320-b51cfafe1917.png)
+
+![다운로드 (2)](https://user-images.githubusercontent.com/18714388/181765007-dededed4-4727-4fa3-a1e1-0ceced2175a2.png)
+
 
 ## 결론
 
