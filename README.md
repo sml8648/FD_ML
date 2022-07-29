@@ -64,6 +64,7 @@
   
 ## 프로젝트 소스 코드 
 
+```
 game/
     __init__.py
     sound/
@@ -78,6 +79,7 @@ game/
         __init__.py
         run.py
         test.py
+```
 
 ## 모델 적용 결과
 
