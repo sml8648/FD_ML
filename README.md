@@ -65,20 +65,16 @@
 ## 프로젝트 소스 코드 
 
 ```
-game/
+FDS_ML/
     __init__.py
-    sound/
+    Data_loader/
         __init__.py
-        echo.py
-        wav.py
-    graphic/
-        __init__.py
-        screen.py
-        render.py
-    play/
-        __init__.py
-        run.py
-        test.py
+        Data_loader.py
+        Preprocess.py
+        Data_fetch.py
+        MongoConnect.py
+    train.py
+    classify.py
 ```
 
 ## 모델 적용 결과
